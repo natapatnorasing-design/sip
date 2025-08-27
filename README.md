@@ -21,7 +21,7 @@ SIP is designed to be a full-featured SIP bridge, connecting LiveKit sessions wi
 Currently, the following features are supported:
 - Dialing Out (Sending INVITEs)
 - Dialing In (Accepting INVITEs)
-- Digest Authentication
+- Digest Authentication้
 - Touch Tone (Sending and Reading DTMF)
 
 ## Documentation
